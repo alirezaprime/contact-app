@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-size: larger;
+}
+p {
+  color: rgb(41 41 225);
+  border-radius: 5px;
+  padding: 5px;
+  font-weight: 1000;
+  font-size: larger;
+  background-color: rgb(0 154 255);
+}
+span {
+  font-weight: bold;
+}
+.subheader {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
