@@ -5,7 +5,7 @@ function Header() {
     <div className={styles.header}>
       <h1>contact App</h1>
       <div className={styles.subheader}>
-        <p>botostart</p>
+        <p className={styles.p}>botostart</p>
         <span>| react.js full course</span>
       </div>
       <br />
