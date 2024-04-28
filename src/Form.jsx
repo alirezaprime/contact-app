@@ -25,10 +25,6 @@ function Form() {
           add contact
         </button>
       </div>
-      <br />
-
-      <br />
-      <br />
     </div>
   );
 }
