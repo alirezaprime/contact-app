@@ -5,7 +5,7 @@
   border-radius: 10px;
   padding: 20px 10px 20px 10px;
   margin-top: 15px;
-  background-color: rgb(204, 204, 204);
+  background-color: rgb(245 245 245);
   margin-bottom: 25px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   font-size: 20px;
@@ -21,4 +21,6 @@
 }
 .plc {
   color: rgb(44, 41, 41);
+  display: none;
+  /* اینجا رو حواست باشه که مخفی کردی */
 }
